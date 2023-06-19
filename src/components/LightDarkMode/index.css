@@ -1,0 +1,10 @@
+/* Write your CSS here */
+.LightMode {
+  background-color: white;
+  color: black;
+}
+
+.DarkMode {
+  background-color: black;
+  color: white;
+}
